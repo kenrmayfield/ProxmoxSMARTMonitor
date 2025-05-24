@@ -7,17 +7,35 @@ So, with zero programming experience and a lot of help from artificial intellige
 🚀 Installation & Usage
 Follow these steps to get ProxmoxSMARTMonitor up and running:
 
-1. Install Dependencies
-sudo apt update
-sudo apt install python3 python3-pip
-pip3 install flask paramiko
-2. Download the Project
-git clone https://github.com/mesteve123/ProxmoxSMARTMonitor
-3. Run the Application
-cd ProxmoxSMARTMonitor
-python3 app.py
+1.  Install Dependencies
+
+    ```bash
+    sudo apt update
+    sudo apt install python3 python3-pip
+    pip3 install flask paramiko
+    ```
+2.  Download the Project
+
+    ```bash
+    git clone [https://github.com/mesteve123/ProxmoxSMARTMonitor](https://github.com/mesteve123/ProxmoxSMARTMonitor)
+    ```
+3.  Run the Application
+
+    ```bash
+    cd ProxmoxSMARTMonitor
+    python3 app.py
+    ```
 
 🎥 Installation Demo
+
+The [video](https://youtu.be/daRtsYX6keY) demonstrates the installation of ProxmoxSMARTMonitor, including:
+
+* Cloning the GitHub repository [00:04]
+* Navigating into the directory [00:11]
+* Making the install script executable [00:14]
+* Running the install script [00:17]
+
+The presenter confirms the successful installation by showing the Proxmox SMART Monitor service running [02:54].
 
 ⚠️ Please note:
 This application has only been tested on Ubuntu Server 22.04, so we recommend using it in that environment for now. I'm currently working on improving compatibility and developing a Docker version.
