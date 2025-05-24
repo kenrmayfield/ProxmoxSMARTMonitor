@@ -4,6 +4,7 @@ While Proxmox includes a SMART tool, I found it limited and not very user-friend
 
 So, with zero programming experience and a lot of help from artificial intelligence, I created ProxmoxSMARTMonitor, a simple, visual, and easy-to-use web tool to check the health of your disks on a Proxmox server.
 
+
 🚀 Installation:
 
 1.  Install Dependencies
@@ -25,9 +26,11 @@ So, with zero programming experience and a lot of help from artificial intellige
     python3 app.py
     ```
 
+
 🎥 Installation Demo
 
 https://youtu.be/daRtsYX6keY
+
 
 
 ⚠️ Please note:
