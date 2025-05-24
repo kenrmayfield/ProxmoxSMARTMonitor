@@ -4,8 +4,7 @@ While Proxmox includes a SMART tool, I found it limited and not very user-friend
 
 So, with zero programming experience and a lot of help from artificial intelligence, I created ProxmoxSMARTMonitor, a simple, visual, and easy-to-use web tool to check the health of your disks on a Proxmox server.
 
-🚀 Installation & Usage
-Follow these steps to get ProxmoxSMARTMonitor up and running:
+🚀 Installation:
 
 1.  Install Dependencies
 
@@ -17,7 +16,7 @@ Follow these steps to get ProxmoxSMARTMonitor up and running:
 2.  Download the Project
 
     ```bash
-    git clone [https://github.com/mesteve123/ProxmoxSMARTMonitor](https://github.com/mesteve123/ProxmoxSMARTMonitor)
+    git clone https://github.com/mesteve123/ProxmoxSMARTMonitor
     ```
 3.  Run the Application
 
@@ -28,16 +27,11 @@ Follow these steps to get ProxmoxSMARTMonitor up and running:
 
 🎥 Installation Demo
 
-The [video](https://youtu.be/daRtsYX6keY) demonstrates the installation of ProxmoxSMARTMonitor, including:
+https://youtu.be/daRtsYX6keY
 
-* Cloning the GitHub repository [00:04]
-* Navigating into the directory [00:11]
-* Making the install script executable [00:14]
-* Running the install script [00:17]
-
-The presenter confirms the successful installation by showing the Proxmox SMART Monitor service running [02:54].
 
 ⚠️ Please note:
+
 This application has only been tested on Ubuntu Server 22.04, so we recommend using it in that environment for now. I'm currently working on improving compatibility and developing a Docker version.
 
 This tool was created primarily with the help of AI. Its correct functioning is not guaranteed, and it is not recommended for use in professional environments.
