@@ -35,7 +35,7 @@ https://youtu.be/daRtsYX6keY
 
 ⚠️ Please note:
 
-This application has only been tested on Ubuntu Server 22.04, so we recommend using it in that environment for now. I'm currently working on improving compatibility and developing a Docker version.
+A Docker version of this project is available [here](https://github.com/mesteve123/ProxmoxSMARTMonitor-DOKER).
 
 This tool was created primarily with the help of AI. Its correct functioning is not guaranteed, and it is not recommended for use in professional environments.
 
