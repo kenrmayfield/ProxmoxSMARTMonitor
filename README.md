@@ -17,10 +17,8 @@ So, with zero programming experience and a lot of help from artificial intellige
    Alpine Dependencies
 
      apk update
-     apk add python3 
-     apk add py3-pip
-     apk add py3-flask 
-     apk add py3-paramiko
+     apk add python3 py3-pip
+     apk add py3-flask py3-paramiko
     
 2.  Download the Project
 
