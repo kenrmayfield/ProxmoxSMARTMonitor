@@ -14,6 +14,14 @@ So, with zero programming experience and a lot of help from artificial intellige
     sudo apt install python3 python3-pip
     pip3 install flask paramiko
     ```
+   Alpine Dependencies
+
+     apk update
+     apk add python3 
+     apk add py3-pip
+     apk add py3-flask 
+     apk add py3-paramiko
+    
 2.  Download the Project
 
     ```bash
